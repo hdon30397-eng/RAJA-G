@@ -29,7 +29,7 @@ module.exports = {
 
 ┌──────────────────────┐
 │  👤 ɴᴀᴍᴇ            │
-│  ➤ SARDAR RDX        │
+│  ➤ Raja G        │
 └──────────────────────┘
 
 ┌──────────────────────┐
@@ -37,13 +37,13 @@ module.exports = {
 └──────────────────────┘
 
   🔗 ꜰᴀᴄᴇʙᴏᴏᴋ:
-  facebook.com/SARDAR.RDX
+  https://www.facebook.com/profile.php?id=61589886555613
 
   💬 ᴡʜᴀᴛꜱᴀᴘᴘ:
-  wa.me/923301068874
+  wa.me/923709690437
 
   📧 ᴇᴍᴀɪʟ:
-  sardarrdx@gmail.com
+  rajardc44@gmail.com
 
 ┌──────────────────────┐
 │  🤖 ʙᴏᴛ ᴅᴇᴛᴀɪʟꜱ     │
